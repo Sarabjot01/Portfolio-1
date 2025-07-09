@@ -37,19 +37,19 @@ const Contact: React.FC = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'john.doe@example.com',
-      href: 'mailto:john.doe@example.com',
+      value: 'sarabsingh676@gmail.com',
+      href: 'mailto:sarabsingh676@gmail.com',
     },
     {
       icon: Phone,
       label: 'Phone',
-      value: '+1 (555) 123-4567',
-      href: 'tel:+15551234567',
+      value: '+91 6239240395',
+      href: 'tel:+91 6239240395',
     },
     {
       icon: MapPin,
       label: 'Location',
-      value: 'San Francisco, CA',
+      value: 'Chandigarh, Punjab',
       href: '#',
     },
   ];
@@ -58,17 +58,17 @@ const Contact: React.FC = () => {
     {
       icon: Github,
       label: 'GitHub',
-      href: 'https://github.com/johndoe',
+      href: 'https://github.com/Sarabjot01',
     },
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      href: 'https://linkedin.com/in/johndoe',
+      href: 'https://www.linkedin.com/in/sarabjot-singh-413155220?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bk7Z5hdh1Qa2Rn114zBsi0g%3D%3D',
     },
     {
       icon: Twitter,
       label: 'Twitter',
-      href: 'https://twitter.com/johndoe',
+      href: 'https://twitter.com',
     },
   ];
 
@@ -121,7 +121,7 @@ const Contact: React.FC = () => {
                     onChange={handleChange}
                     required
                     className="w-full px-4 py-3 border border-gray-300 rounded-2xl focus:ring-2 focus:ring-black focus:border-transparent transition-all duration-200 bg-white"
-                    placeholder="your.email@example.com"
+                    placeholder="sarabsingh676@gmail.com"
                   />
                 </div>
               </div>

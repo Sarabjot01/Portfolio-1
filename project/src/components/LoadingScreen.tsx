@@ -22,7 +22,7 @@ const LoadingScreen: React.FC = () => {
           <div className="w-20 h-20 mx-auto relative">
             <div className="absolute inset-0 bg-gradient-to-br from-white to-gray-300 rounded-2xl opacity-90"></div>
             <div className="absolute inset-1 bg-black rounded-xl flex items-center justify-center">
-              <span className="text-white text-2xl font-light tracking-wider">JD</span>
+              <span className="text-white text-2xl font-light tracking-wider">SS</span>
             </div>
           </div>
         </div>

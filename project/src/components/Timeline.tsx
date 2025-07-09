@@ -5,10 +5,10 @@ const Timeline: React.FC = () => {
   const experiences = [
     {
       type: 'work',
-      title: 'Senior Full Stack Developer',
-      company: 'Tech Innovations Inc.',
-      location: 'San Francisco, CA',
-      period: '2022 - Present',
+      title: 'Full Stack Developer',
+      company: 'OutGrow.co',
+      location: 'new York, NY',
+      period: '2025 - Present',
       description: 'Leading development of scalable web applications and mentoring junior developers. Architected microservices infrastructure serving 1M+ users.',
       achievements: [
         'Led team of 8 developers',
@@ -20,10 +20,10 @@ const Timeline: React.FC = () => {
     {
       type: 'work',
       title: 'Full Stack Developer',
-      company: 'Digital Solutions Ltd.',
-      location: 'New York, NY',
-      period: '2020 - 2022',
-      description: 'Developed and maintained multiple client projects using React, Node.js, and cloud technologies.',
+      company: 'Mastersunion.org',
+      location: 'Gurugram, Harayana',
+      period: '2025 - Present',
+      description: 'Developed and maintained your own product and multiple projects using React, Node.js, and cloud technologies.',
       achievements: [
         'Built 15+ client projects',
         'Improved performance by 40%',
@@ -33,30 +33,30 @@ const Timeline: React.FC = () => {
     },
     {
       type: 'education',
-      title: 'Master of Computer Science',
-      company: 'Stanford University',
-      location: 'Stanford, CA',
-      period: '2018 - 2020',
-      description: 'Specialized in software engineering and human-computer interaction. Graduated with honors.',
+      title: 'Batchlors of Computer Science',
+      company: 'Lovely Professional University',
+      location: 'Jalandhar, Punjab',
+      period: '2021 - 2025',
+      description: 'Specialized in software engineering,Data Science and human-computer interaction. Graduated with honors.',
       achievements: [
-        'GPA: 3.9/4.0',
-        'Dean\'s List recognition',
+        'GPA: 7.2/10.0',
+        'Hackathon Participantions',
         'Research publication',
         'Teaching assistant'
       ],
     },
     {
       type: 'work',
-      title: 'Frontend Developer',
-      company: 'StartupXYZ',
-      location: 'Austin, TX',
-      period: '2017 - 2018',
+      title: 'Data Science Intern',
+      company: 'GeeksforGeeks',
+      location: 'Remote ',
+      period: '2022 - 2023',
       description: 'Joined early-stage startup to build user-facing features and shape product direction.',
       achievements: [
-        'First frontend hire',
-        'Built entire UI library',
-        'Increased user engagement 3x',
-        'Launched mobile app'
+        'Worked on core product features',
+        'Collaborated with founders',
+        'Gained experience in startup culture',
+        'Contributed to product roadmap'
       ],
     },
   ];

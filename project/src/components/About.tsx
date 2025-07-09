@@ -72,14 +72,15 @@ const About: React.FC = () => {
               ))}
             </div>
           </div>
-
           {/* Apple-style Visual */}
           <div className="relative">
             <div className="aspect-square bg-gradient-to-br from-blue-500 to-purple-600 rounded-3xl p-1 shadow-2xl">
-              <div className="w-full h-full bg-white rounded-3xl flex items-center justify-center">
-                <div className="text-6xl font-light text-transparent bg-clip-text bg-gradient-to-br from-blue-500 to-purple-600">
-                  JD
-                </div>
+              <div className="w-full h-full bg-white rounded-3xl flex items-center justify-center overflow-hidden">
+                <img
+                  src="https://i.ibb.co/vn5DmFJ/cv-photo.jpg"
+                  alt="cv-photo"
+                  className="w-full h-full object-cover rounded-3xl"
+                />
               </div>
             </div>
           </div>
