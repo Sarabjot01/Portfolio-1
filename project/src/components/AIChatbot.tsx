@@ -45,7 +45,7 @@ const AIChatbot: React.FC = () => {
     const message = userMessage.toLowerCase();
     
     if (message.includes('experience') || message.includes('work') || message.includes('job') || message.includes('career') || message.includes('sarab')) {
-      return "Sarab has 1+ years of experience as a Full Stack Developer. He's currently a Assosiate Full Stack Developer at Outgrow.co and Master's Union, where he is developing softwares and has built applications serving 1M+ users. Previously, he worked at GeeksForGeeks as Data Science Intern and started his career at Coding Ninja as a Teaching Assistant.";
+      return "Sarab has 1+ years of experience as a Full Stack Developer. He's currently a Assosiate Full Stack Developer at VenturePact.com and Master's Union, where he is developing softwares and has built applications serving 1M+ users. Previously, he worked at GeeksForGeeks as Data Science Intern and started his career at Coding Ninja as a Teaching Assistant.";
     }
     
     if (message.includes('skill') || message.includes('technology') || message.includes('tech')) {

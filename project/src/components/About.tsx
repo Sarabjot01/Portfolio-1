@@ -47,7 +47,7 @@ const About: React.FC = () => {
               </h3>
               <div className="space-y-4 text-lg text-gray-600 leading-relaxed font-normal">
                 <p>
-                  With over 5 years of experience in full-stack development, I specialize in creating 
+                  With over 1 years of experience in full-stack development, I specialize in creating 
                   scalable web applications and intuitive user interfaces that solve real-world problems.
                 </p>
                 <p>
@@ -60,9 +60,9 @@ const About: React.FC = () => {
             {/* Apple-style Stats */}
             <div className="grid grid-cols-2 gap-6">
               {[
-                { value: '50+', label: 'Projects' },
-                { value: '5+', label: 'Years' },
-                { value: '20+', label: 'Technologies' },
+                { value: '5+', label: 'Projects' },
+                { value: '1+', label: 'Years' },
+                { value: '10+', label: 'Technologies' },
                 { value: '100%', label: 'Satisfaction' }
               ].map((stat, index) => (
                 <div key={index} className="text-center p-6 bg-white rounded-2xl shadow-sm">

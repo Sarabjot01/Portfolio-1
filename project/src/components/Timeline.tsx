@@ -6,7 +6,7 @@ const Timeline: React.FC = () => {
     {
       type: 'work',
       title: 'Full Stack Developer',
-      company: 'OutGrow.co',
+      company: 'VenturePact.com',
       location: 'new York, NY',
       period: '2025 - Present',
       description: 'Leading development of scalable web applications and mentoring junior developers. Architected microservices infrastructure serving 1M+ users.',
