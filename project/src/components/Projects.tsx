@@ -43,7 +43,7 @@ const Projects: React.FC = () => {
       category: 'AI/ML',
       technologies: ['PineCone', 'React', 'Twilio', 'Node.js' ,'Ngrok', 'OpenAI'],
       liveUrl: '#',
-      githubUrl: '#',
+      githubUrl: 'https://github.com/Sarabjot01/Project-backend',
     },
     {
       id: 5,
@@ -53,7 +53,7 @@ const Projects: React.FC = () => {
       category: 'Design',
       technologies: ['React', 'Tailwind', 'Framer Motion'],
       liveUrl: '#',
-      githubUrl: '#',
+      githubUrl: 'https://github.com/Sarabjot01/Portfolio',
     },
     {
       id: 6,

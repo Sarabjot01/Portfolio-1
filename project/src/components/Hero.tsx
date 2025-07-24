@@ -62,7 +62,7 @@ const Hero: React.FC = () => {
           <h1 className="text-6xl md:text-8xl font-bold leading-tight tracking-tight">
             <span className="block text-black">Sarabjot Singh</span>
             <span className="block bg-gradient-to-r from-blue-600 via-purple-600 to-blue-800 bg-clip-text text-transparent">
-              Creative Developer
+              Full Stack Developer
             </span>
           </h1>
           
